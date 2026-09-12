@@ -1,0 +1,12 @@
+build/* linguist-vendored
+*.jpg binary
+
+dist/* linguist-vendored
+*.tsx linguist-detectable 
+*.htm linguist-vendored
+
+*.svg text
+*.ico binary
+vendor/* linguist-vendored
+
+# eof f1b7e700
